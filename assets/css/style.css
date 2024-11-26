@@ -1,7 +1,7 @@
 /*  
     #2D3A3A; gunmetal
     #EDF7D2; nyanza
-    ##98B6B1; ash grey
+    #98B6B1; ash grey
 */
 
 /* global styles */
@@ -33,4 +33,19 @@ h2 {
     min-height: 500px;
     padding: 5% 7%;
     color: #2D3A3A;
+}
+
+/* Footer section */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #2D3A3A; 
 }
