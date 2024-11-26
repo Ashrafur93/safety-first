@@ -1,0 +1,36 @@
+/*  
+    #2D3A3A; gunmetal
+    #EDF7D2; nyanza
+    ##98B6B1; ash grey
+*/
+
+/* global styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Oswald:wght@200..700&display=swap');
+
+body {
+    font-family: "nunito", sans-serif;
+    background-color: #98B6B1;
+}
+
+h1,
+h2 {
+    font-family: "oswald", sans-serif;
+    color: #2D3A3A;
+}
+
+/* Key information section */
+#information {
+    background-color: #EDF7D2;
+}
+
+/* Header section */
+#hero {
+    background-color: #EDF7D2;
+    background-image: url(../images/hero.webp);
+    background-size: cover;
+    background-position: 50% 30%;
+    min-height: 500px;
+    padding: 5% 7%;
+    color: #2D3A3A;
+}
