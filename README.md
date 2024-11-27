@@ -23,6 +23,7 @@ The choice of colours was taken from coolers.com
 
 ### Frameworks, libraries and programs
 - Bootstrap 5.3.3
+- Code Insitute LMS - for previous study content which was used in this project
 - Balsamiq - for wireframing
 - Git - for version control
 - Github - for project repository
@@ -32,7 +33,7 @@ The choice of colours was taken from coolers.com
 - W3C HTML Validator - for validation of code
 - W3C CSS Validator - for validation of code
 - Pexels.com - for stock images
-- https://squoosh.app/editor - for converting jpeg files into webp files
+- squoosh.app/editor - for converting jpeg files into webp files
 
 ## Deployment
 Github Pages was used to deploy this project:
@@ -59,6 +60,15 @@ The following websites were used for text content.
 - https://www.england.nhs.uk/long-read/safeguarding/
 - https://www.england.nhs.uk/safeguarding/about/
 
+### Previous cohorts' submissions
+These were used for inspiration on content structure and design, including the README.md files.
+- m-dixon5/CyberWise-Project
+- laurachri-hall/project-1-safeguarding-bgg
+- TaylaJBall/Minds-Together
+
+## Known bugs
+- The send button from the contact form sends the user back to Action Steps. 
+
 ## Future improvements
-- Make info cards and their corresponding pictures uniform.
 - Add a hover effect to navigation buttons and submit button for improved UX.
+- Design information cards to be as originally intended during wireframing.
