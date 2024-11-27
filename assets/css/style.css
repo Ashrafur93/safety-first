@@ -24,6 +24,12 @@ h2 {
     background-color: #EDF7D2;
 }
 
+.navbar-brand {
+    font-size: 34px;
+    font-weight: bold;
+    color: #2D3A3A;
+}
+
 /* Header section */
 #hero {
     background-color: #EDF7D2;
